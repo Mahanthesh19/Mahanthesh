@@ -1,0 +1,116 @@
+
+.mydiv {
+    margin-left: 25%;
+    margin-top: -8%;
+
+}
+
+.mydiv2 {
+    margin-left: 11%;
+    margin-top: -2%;
+}
+
+.mydiv3 {
+    margin-left: 5%;
+    margin-top: -2%;
+}
+
+.mydiv4 {
+    margin-left: 92%;
+    margin-top: -10%;
+
+}
+
+.imgsize {
+    height: 11vh;
+}
+
+.textsize {
+    font-size: 25px;
+    font-style: bold;
+    margin-top: 30%;
+}
+
+.textdiv {
+    margin-left: -120%;
+
+
+
+}
+
+.linediv {
+    background-color: orange;
+}
+
+.imgdiv {
+    margin-top: -90%;
+}
+
+.line {
+    font-size: x-large;
+    color: rgb(203, 85, 22);
+}
+
+.mydiv5 {
+    margin-top: 2%;
+    margin-left:20% ;
+    width: 60%;
+    height: 6cm;
+    border-style: solid;
+    border-color: black;
+    background-color: aqua;
+    border-radius: 0.5cm;
+}
+
+.textspace {
+    font-size: 1.6em;
+    color: rgb(24, 24, 224);
+    text-align: justify;
+
+
+}
+
+.mydiv6 {
+    margin-left: 25%;
+}
+
+.hostelboys {
+    margin-left: 13%;
+    margin-top: -14%;
+    background-color: rgb(221, 251, 172);
+    border-radius: 0.5cm;
+    width: 70%;
+    height: 9cm;
+    font-size: larger;
+    border-style:solid;
+}
+
+.niehostel {
+    margin-left: 45%;
+    font-size: 0.4cm;
+    margin-top: 10%;
+}
+
+.hostelgirls {
+    background-color: rgb(227, 167, 232);
+    border-radius: 0.5cm;
+    margin-top: 0%;
+    width: 50%;
+    margin-left: 20%;
+    height: 8cm;
+    font-size:1.2em ;
+    border-style:solid ;
+}
+
+.helpline {
+    margin-left: 40%;
+
+}
+.trapezoid {
+	border-bottom: 50px solid rgb(228, 160, 42);
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 125px;
+    margin-left: 48%;
+}
